@@ -5,10 +5,10 @@ import json
 import time
 
 
-API_KEY = "t1UswbPBdyBDM8ECMD1B49SGZ"
-SECRET_KEY =  "7LTT5vGL8WmUMV3g3lKoYXCX6dzxDS3qLHnzlRysCMYIYrEOMD"
-ACCESS_TOKEN = "1333847252893388801-CJ0bpmErsFvBwJXr07YDvdlUivr0QR"
-ACCESS_TOKEN_SECRET = "kavew7S0Wf4U4Le31OHgnoMrcxlBqU1cgJJultfBkaaB8"
+API_KEY = "API Keys goe here"
+SECRET_KEY =  "Secret key goes here"
+ACCESS_TOKEN = "ACCES TOKEN GOES HERE"
+ACCESS_TOKEN_SECRET = "ACCESS TOKEN SECRET GOES HERE"
 
 auth_handler = tweepy.OAuthHandler(consumer_key=API_KEY, consumer_secret=SECRET_KEY)
 auth_handler.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
